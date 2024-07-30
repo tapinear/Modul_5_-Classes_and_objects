@@ -1,4 +1,4 @@
-class HHouse:                                       # Создайте класс House
+class House:                                       # Создайте класс House
     def __init__(self, name, number_of_floors):     # Внутри метода __init__ создайте атрибуты объекта self.name и self.number_of_floors, присвойте им переданные значения
         self.name = name                            # Создайте атрибуты объекта self.name и
         self.number_of_floors = number_of_floors
